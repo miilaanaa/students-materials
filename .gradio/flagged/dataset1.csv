@@ -1,7 +1,0 @@
-audio_path,Detection Result,timestamp
-.gradio/flagged/audio_path/56b8304fe89f638163fb/2-08 Insight Elementary.mp3,,2026-06-22 01:53:51.864975
-.gradio/flagged/audio_path/0260a22f74e6c5694b5b/2-08 Insight Elementary.mp3,"Result: REAL
-Confidence: 79.30%
-
-Real probability: 79.30%
-Fake probability: 20.70%",2026-06-22 01:55:33.560224
