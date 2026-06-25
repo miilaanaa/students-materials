@@ -109,7 +109,6 @@ final_model/
 
 ## Notes
 
-* The model uses acoustic feature-based detection and does not analyze raw waveform directly.
 * Large model file is excluded from GitHub due to size limits.
 * OpenSMILE is required for feature extraction.
 
