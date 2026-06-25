@@ -1,0 +1,16 @@
+Upload audio file,output,timestamp
+.gradio/flagged/Upload audio file/750a026576bd77276b28/2-14 Insight Elementary.mp3,"**AUDIO DETECTION by ACOUSTIC FEATURES**
+
+**Prediction:** REAL
+
+**Confidence:** 84.92%
+**Real probability:** 84.92%
+**Fake probability:** 15.08%
+
+**Main acoustic characteristics of this audio:**
+
+• Spectral characteristics
+• Loudness
+• Formant structure
+• Fundamental frequency (pitch)
+• Jitter (voice instability)",2026-06-25 16:29:35.742049
