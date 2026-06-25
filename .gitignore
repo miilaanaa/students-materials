@@ -1,3 +1,4 @@
 .gradio/
 __pycache__/
 *.pyc
+rf_deepfake_final.pkl
